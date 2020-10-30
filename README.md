@@ -4,7 +4,7 @@ For this task you would be building a basic blog application using Django (https
 You will be tested on the quality of code and how exhaustive your unit tests are. Your application should, of course, meet all requirements.
 
 ## ER Diagram
-![Alt text](https://github.com/dammy95/backend-task/blob/main/Er-diagram.pdf)
+ER Diagram: https://github.com/dammy95/backend-task/blob/main/Er-diagram.pdf
 
 The data models should follow the ER diagram format in the image above.
 `1:*` simply means one or more than one (i.e a `Book` can have one or two or three authors etc)
